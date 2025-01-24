@@ -38,7 +38,6 @@ Portfólio-DB/
 
 
 
-
 ## 🚀 Como Rodar o Projeto Localmente
 
 1. **Clone o repositório:**

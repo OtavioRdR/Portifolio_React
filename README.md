@@ -18,7 +18,6 @@ Portfólio-DB é uma aplicação front-end desenvolvida com React e Vite, projet
 ## 🗂️ Estrutura de Pastas
 
 O projeto está organizado da seguinte 
-
 Portfólio-DB/
 ├── public/
 ├── src/

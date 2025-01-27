@@ -18,7 +18,7 @@ const Header: React.FC = () => {
                 <img
                     id="logo"
                     src="/assets/Logo DB dark blue 1.png"
-                    alt="Logo da empresa DB"
+                    alt="Logo da DB"
                 />
             </a>
             <button id="menu-toggle" aria-label="Abrir Menu" onClick={handleMenuToggle}>
@@ -48,16 +48,16 @@ const Header: React.FC = () => {
             <ul id="redes-sociais">
                 <li>
                     <a href="https://github.com/OtavioRdR" target="_blank" rel="noopener noreferrer">
-                        <img src="/assets/Vector.png" alt="Logo do GitHub"/>
+                        <img src="/assets/Vector.png" alt="Logo GitHub"/>
                     </a>
                 </li>
                 <li>
                     <a
                         href="https://www.linkedin.com/in/otavio-rosa-rodrigues/"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel=""
                     >
-                        <img src="/assets/Vector (1).png" alt="Logo do Linkedin"/>
+                        <img src="/assets/Vector (1).png" alt="Logo Linkedin"/>
                     </a>
                 </li>
             </ul>

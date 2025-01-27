@@ -6,7 +6,7 @@ const Footer = () => (
         <div className="footer-container">
             <img
                 src="/assets/logoDbHorizontal.png"
-                alt="Logo do rodapé"
+                alt="Logo Db Footer"
             />
         </div>
     </footer>

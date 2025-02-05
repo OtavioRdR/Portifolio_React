@@ -7,10 +7,10 @@ const About: React.FC = () => {
         <section className="container">
             <div className="about">
                 <h2>Sobre mim</h2>
-                <p>Sou Otávio, desenvolvedor com experiência em Java, Node.js e ferramentas low-code como Power Apps.
-        Atuo no desenvolvimento de soluções inovadoras, com foco em eficiência e qualidade, além de possuir
-        conhecimentos em SQL, Git e metodologias ágeis. Estou sempre em busca de aprimorar minhas habilidades
-        técnicas por meio de projetos desafiadores e aprendizagem contínua.</p>
+                <p>Sou Otávio, profissional com experiência em Quality Assurance e desenvolvimento de software. 
+                   Tenho conhecimento em testes automatizados e manuais, garantindo a qualidade e eficiência das aplicações.
+                   Além disso, possuo experiência com Java, Node.js, SQL, Git e metodologias ágeis. Busco aprimorar minhas 
+                   habilidades continuamente por meio de desafios técnicos e inovação.</p>
             </div>
             <Skills/>
         </section>

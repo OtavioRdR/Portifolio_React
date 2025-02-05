@@ -7,8 +7,8 @@ const Profile: React.FC = () => {
                         <span>Otavio Rosa</span>
                     </h1>
                     <p style={{ fontFamily: "'TT-Supermolot-Neue-Trial', sans-serif", fontSize: '36px' }}>
-                        Sou trainee de desenvolvimento <br/>
-                        de software na DBServer.
+                        Sou trainee de Quality Assurance<br/>
+                         na DBServer.
                     </p>
                 </div>
                 <img src="/assets/image.png" alt="Foto do Otavio"/>

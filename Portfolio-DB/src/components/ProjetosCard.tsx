@@ -25,31 +25,30 @@ const ProjetosCard: React.FC = () => {
                         </div>
                     </div>
                     <div className="card">
-                        <img src="/assets/FutebolAi.png" alt="Descrição da imagem"/>
+                        <img src="/assets/robozinho.png" alt="Descrição da imagem"/>
                         <div className="card-about">
-                            <h2>API de Partidas de Futebol</h2>
-                            <span> JAVA</span>
-                            <p>Desenvolvimento de uma API que gerencia dados sobre partidas de futebol,
-                                como equipes, horários e resultados. 
-                                A API permite cadastro, consulta e atualização de informações
-                                com foco na eficiência e acessibilidade.</p>
+                            <h2>Sauce Labs</h2>
+                            <span>Python</span>
+                            <p>O ProjetoCyDB é um conjunto de testes automatizados E2E desenvolvidos com Cypress para validar
+                                a usabilidade e funcionalidades do site SauceDemo. Ele abrange cenários essenciais como login,
+                                adição e remoção de itens no carrinho, ordenação de produtos e fluxo completo de checkout, 
+                                garantindo uma experiência confiável para os usuários. 🚀</p>
                             <div className="buttons">
-                                <button><a href="https://github.com/OtavioRdR/Projeto-Final" target="_blank">Github</a>
-                                </button>
+                                <button><a href="https://github.com/OtavioRdR/ProjetoCyDB" target="_blank"
+                                           rel="noopener noreferrer">Github</a></button>
                             </div>
                         </div>
                     </div>
                     <div className="card">
-                        <img src="/assets/CrudPessoasAi.png" alt="Descrição da imagem"/>
+                        <img src="/assets/APICEP.png" alt="Descrição da imagem"/>
                         <div className="card-about">
-                            <h2>Pessoas Endereços</h2>
+                            <h2>Validação de CEP 🌍📬</h2>
                             <span> JAVA</span>
-                            <p>Sistema CRUD para criar, ler, atualizar e excluir dados de pessoas e endereços.
-                                A aplicação facilita a gestão de informações em banco de dados,
-                                integrando funcionalidades com segurança e praticidade.</p>
+                            <p>Projeto para validar CEPs utilizando a API pública do ViaCEP. 
+                            Utiliza RestAssured para requisições HTTP e JUnit 5 para testes unitários.
+                            Cobre cenários de CEPs válidos e inválidos, formatos diversos e tempo de resposta da API.</p>
                             <div className="buttons">
-                                <button><a href="https://github.com/OtavioRdR/DB_CRUD"
-                                           target="_blank">Github</a>
+                                <button><a href="https://github.com/OtavioRdR/Desafio-API---testes" target="_blank">Github</a>
                                 </button>
                             </div>
                         </div>

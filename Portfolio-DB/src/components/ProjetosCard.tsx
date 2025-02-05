@@ -28,7 +28,7 @@ const ProjetosCard: React.FC = () => {
                         <img src="/assets/robozinho.png" alt="Descrição da imagem"/>
                         <div className="card-about">
                             <h2>Sauce Labs</h2>
-                            <span>Python</span>
+                            <span>Cypress e JavaScript</span>
                             <p>O ProjetoCyDB é um conjunto de testes automatizados E2E desenvolvidos com Cypress para validar
                                 a usabilidade e funcionalidades do site SauceDemo. Ele abrange cenários essenciais como login,
                                 adição e remoção de itens no carrinho, ordenação de produtos e fluxo completo de checkout, 
@@ -43,7 +43,7 @@ const ProjetosCard: React.FC = () => {
                         <img src="/assets/APICEP.png" alt="Descrição da imagem"/>
                         <div className="card-about">
                             <h2>Validação de CEP 🌍📬</h2>
-                            <span> JAVA</span>
+                            <span>Java, RestAssured e Junit</span>
                             <p>Projeto para validar CEPs utilizando a API pública do ViaCEP. 
                             Utiliza RestAssured para requisições HTTP e JUnit 5 para testes unitários.
                             Cobre cenários de CEPs válidos e inválidos, formatos diversos e tempo de resposta da API.</p>
